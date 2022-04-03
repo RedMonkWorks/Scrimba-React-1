@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function MainContent() {
+export default function MainContent(props) {
   return (
     <main className="container">
       <h1>Fun facts about React</h1>
